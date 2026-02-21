@@ -290,7 +290,7 @@ Your **LEMP stack** is fully operational:
 
 ## 👨‍💻 Author
 
-Marco Raafat Zakaria
-Steghub Scholarship
+* Marco Raafat Zakaria
+* Steghub Scholarship
 
 ---
