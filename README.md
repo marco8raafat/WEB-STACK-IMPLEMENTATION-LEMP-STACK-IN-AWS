@@ -14,8 +14,8 @@ In this project, the main difference is the use of **Nginx** as the web server i
 
 * You need an **AWS account** and an EC2 instance running **Ubuntu Server 24.04 LTS**.
 * Launch an EC2 instance of `t2.micro` family.
-* Stop other EC2 instances when not in use to save free tier hours.
-* Connect via **Git Bash**:
+![AWS-lemp-ec2](screenshots/AWS-lemp-ec2.png)
+* Connect via **Bash**:
 
 ```bash
 ssh -i <Your-private-key.pem> ubuntu@<EC2-Public-IP-address>
