@@ -194,7 +194,7 @@ sudo rm /var/www/projectLEMP/info.php
 
 ---
 
-## 🥹 Step 6 — MySQL & PHP Integration
+## Step 6 — MySQL & PHP Integration
 
 ### Create Database and User
 
